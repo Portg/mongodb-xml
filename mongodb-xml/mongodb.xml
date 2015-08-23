@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<database> 
+  <table name="foo"> 
+    <data>{"id":"9154F68A-A11F-49F8-A3E0-BCD809CD8BA1","street":"北京市海淀区学院路35号","country":"中国","city":"北京市"}</data> 
+  </table>  
+  <table name="system.indexs"/>  
+  <table name="system.users"/> 
+</database>
